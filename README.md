@@ -1,5 +1,6 @@
 # 🍓 Strawberry Ripeness iOS App
-/Users/azatakash/Library/Group Containers/group.com.apple.coreservices.useractivityd/shared-pasteboard/items/0245AC63-9CC5-49DA-AD8E-8549F64AE9BD/IMG_2561.png
+<img width="480" height="1040" alt="IMG_2561" src="https://github.com/user-attachments/assets/01ae431a-51ff-44e1-afce-9503660d84e2" />
+
 
 Native iOS app for on-device strawberry ripeness detection using CoreML + Vision.
 
